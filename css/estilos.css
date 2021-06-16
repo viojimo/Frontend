@@ -1,0 +1,32 @@
+img {
+    display: block;
+    margin: auto;
+    width: 150px; height: 150px;
+}
+h1{
+    background-color: rgb(195, 187, 236);
+    opacity: 0.5;
+    text-align: center; 
+    font-family: "made gentle";
+    src: url(.../root2/MADE Gentle PERSONAL USE); format (truetype)
+    }
+p{
+    background-color: rgb(195, 187, 236);
+    opacity: 0.5;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div {
+    margin-left: 10cm;
+    
+}
+ul {
+    list-style-type: none;
+}  
+
+li {
+    float: left
+    
+
+}
