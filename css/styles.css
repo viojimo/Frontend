@@ -1,0 +1,56 @@
+@font-face {
+    font-family:'Playfair Display', serif;
+    src: url(.../Clase8/fonts/NewStandard-Regular);
+}
+header{
+    background-color: rgb(142, 145, 142);
+    background-repeat: no-repeat;
+    background-position: center -200px;
+    background-size: cover;
+    background-attachment: fixed; 
+    height: 50vh;
+    background-image: url(../img/Header.jpg)
+    
+    
+}
+.imgRedonda {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+    border:10px solid #c0c0c0;
+    position: absolute;
+    top: 250px;
+    left: 43.5%;
+}
+
+h2{
+    font-family:'Playfair Display', serif;
+    src: url(.../Clase8/fonts/PlayfairDisplay);
+    font-size: 25px;
+    
+}
+body{ 
+    background-color: #c0c0c0; 
+}
+.segundo {
+    list-style: none;
+
+}
+hr{
+    color: rgb(0, 0, 0)
+}
+footer{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    
+
+}
+
+span{
+    text-align: center;
+}
+
+
+
+
